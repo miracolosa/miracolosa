@@ -14,4 +14,4 @@
 In my repositories, you will find my work completed during the 9 weeks at Le Wagon, which includes:
 
 🗓 The daily exercises to learn how to code
-👯 Two repositories for group projects: - 👩🏻‍🍳 One was an airbnb-like platform to order homemade meals.  - 🏃🏻‍♀️ And the other was a mobile app to connect with fellow runners and join them on a run.
+👯 Two repositories for group projects: - 👩🏻‍🍳 One was an airbnb-like platform to order homemade meals.  - 🏃🏻‍♀️ And the other was a mobile app (pwa) to connect with fellow runners and join them on a run.
