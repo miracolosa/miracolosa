@@ -11,6 +11,8 @@
 
 📄 Know more about my experiences: https://www.linkedin.com/in/milagros-lasarte/
 
+🔎 Browse my portfolio on Troopl: https://troopl.com/milagroslasarte
+
 In my repositories, you will find my work completed during the 9 weeks at Le Wagon, which includes:
 
 🗓 The daily exercises to learn how to code
