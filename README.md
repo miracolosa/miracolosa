@@ -13,7 +13,4 @@
 
 🔎 Browse my portfolio on Troopl: https://troopl.com/milagroslasarte
 
-In my repositories, you will find my work completed during the 9 weeks at Le Wagon, which includes:
-
-🗓 The daily exercises to learn how to code
-👯 Two repositories for group projects: - 👩🏻‍🍳 One was an airbnb-like platform to order homemade meals.  - 🏃🏻‍♀️ And the other was a mobile app (pwa) to connect with fellow runners and join them on a run.
+In my repositories, you will find my work completed during the 9 weeks at Le Wagon, two group projects (Cookii and RunMate), and other projects I started as I continue exploring Rails and learning new frameworks!
