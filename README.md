@@ -13,4 +13,4 @@
 
 🔎 Browse my portfolio on Troopl: https://troopl.com/milagroslasarte
 
-In my repositories, you will find my work completed during the 9 weeks at Le Wagon, two group projects (Cookii and RunMate), and other projects I started as I continue exploring Rails and learning new frameworks! Right now, I'm getting to know React ⚛️:
+In my repositories, you will find my work completed during the 9 weeks at Le Wagon, two group projects (Cookii and RunMate), and other projects I started as I continue exploring Rails and learning new frameworks! Right now, I'm getting to know React ⚛️
