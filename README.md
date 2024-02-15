@@ -1,16 +1,14 @@
 ## Hello 👋 I'm Milagros
 
 
-:mortar_board: I recently graduated from Le Wagon school.
+:mortar_board: I'm a Frontend Developer.
 
-🌱 There I learned to code with Ruby on Rails, Ruby, JavaScript and HTML/CSS. I keep on developing these skills every day.
+🌱 I used to work in publishing but eventually switched gears and after studying at Le Wagon school, I joined Crealo's team: a platform that helps publishers handle their royalties payments more efficiently.
 
-:space_invader: I’m looking to join a new team as a junior full-stack web developer and work on new projects.
+:space_invader: I’m always looking to improve my skills and dive deeper into the world of coding and design.
 
 📫 You can reach me at: lasartemilagros@gmail.com
 
 📄 Know more about my experiences: https://www.linkedin.com/in/milagros-lasarte/
 
 🔎 Browse my portfolio on Troopl: https://troopl.com/milagroslasarte
-
-In my repositories, you will find my work completed during the 9 weeks at Le Wagon, two group projects (Cookii and RunMate), and other projects I started as I continue exploring Rails and learning new frameworks! Right now, I'm getting to know React ⚛️
