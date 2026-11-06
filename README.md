@@ -10,5 +10,3 @@
 📫 You can reach me at: lasartemilagros@gmail.com
 
 📄 Know more about my experiences: https://www.linkedin.com/in/milagros-lasarte/
-
-🔎 Browse my portfolio on Troopl: https://troopl.com/milagroslasarte
